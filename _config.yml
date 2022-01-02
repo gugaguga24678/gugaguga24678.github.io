@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username:  N/A
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima 
 plugins:
   - jekyll-feed
 
